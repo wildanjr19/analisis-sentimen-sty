@@ -1,0 +1,7 @@
+# Ignore the trained model file
+SA_LSTM.h5
+
+# Ignore all "Tweets Data*" files in the data directory
+data/Tweets Data*
+
+analisis_sentiment_sty.zip
